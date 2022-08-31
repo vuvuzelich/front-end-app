@@ -1,2 +1,3 @@
 *.sass
-/bin
+bin/
+config/
